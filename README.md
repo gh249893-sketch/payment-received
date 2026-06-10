@@ -8,7 +8,7 @@ dfd
 fsaf
 fds
 c
-terw
+terwd
 SDgf
 FDSF
 TEtreeqc
